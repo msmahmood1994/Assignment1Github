@@ -1,6 +1,8 @@
+@charset "UTF-8";
+/* CSS Document */
 
 header {
-background-color: #light-blue;
+background-color: #add8e6;
 padding: 30px;
 text-align: center;
 font-size: 35px;
@@ -92,4 +94,3 @@ body{
               margin-top: 230px;
                       
           }
-         
